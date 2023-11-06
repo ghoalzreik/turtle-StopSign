@@ -1,1 +1,2 @@
-# turtle-StopSign
+# Turtle Stop Sign Project
+By Ghofran Alzreikat
